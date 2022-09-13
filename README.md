@@ -1,5 +1,5 @@
-# HowFar Chatapp
+# HowFar Cha tapp
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+![Chat Application]
 
-A chat app built Built with ReactJS and ChatEngine API and social authentication using firebase.
+A chat app built Built with ReactJS and ChatEngine API and social authentication using Google and Facebook with firebase.
